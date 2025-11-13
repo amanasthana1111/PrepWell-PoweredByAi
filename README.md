@@ -1,1 +1,1 @@
-# new project
+PrepWell is powered by ai
